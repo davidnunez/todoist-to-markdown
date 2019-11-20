@@ -1,0 +1,14 @@
+{
+  "name": "todoisttotaskpaper",
+  "version": "1.0.0",
+  "description": "Converts todoist exports into taskpaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davidnunez",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  }
+}

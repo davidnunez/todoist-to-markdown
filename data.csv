@@ -1,0 +1,18 @@
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+task,this is a task with a @tag,4,1,David (11441238),,,en,America/New_York
+,,,,,,,,
+task,here is another task with a note,4,1,David (11441238),,,en,America/New_York
+note,This is a comment.,,,David (11441238),,,,
+,,,,,,,,
+task,and a sub-task,4,1,David (11441238),,,en,America/New_York
+note,"This is a multi-line...
+Comment.",,,David (11441238),,,,
+,,,,,,,,
+task,here is yet another task,4,2,David (11441238),,,en,America/New_York
+note,This one has two comments,,,David (11441238),,,,
+note,comment two,,,David (11441238),,,,
+,,,,,,,,
+task,with many levels of subtasks!,4,3,David (11441238),,,en,America/New_York
+,,,,,,,,
+task,last one,4,4,David (11441238),,,en,America/New_York
+,,,,,,,,
